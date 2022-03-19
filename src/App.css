@@ -37,3 +37,20 @@
     transform: translateY(0px);
   }
 }
+
+div {
+  transition: 200ms;
+  background-color: #0b0b0b;
+}
+
+a {
+  color: white;
+  transition: 200ms;
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  color: white;
+  transition: 200ms;
+  font-family: "Roboto", sans-serif;
+}
