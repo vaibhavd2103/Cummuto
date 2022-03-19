@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  width: 100%;
 }
 
 .App-logo {
@@ -40,7 +44,7 @@
 
 div {
   transition: 200ms;
-  background-color: #0b0b0b;
+  /* background-color: #000; */
 }
 
 a {
